@@ -1,6 +1,6 @@
 # Ziti Android Quickstart
 
-This is a simple app that demonstrates the use of [the Ziti SDK for Android](https://github.com/openziti/ziti-sdk-android) (Kotlin). You will need the files in [this Git repository](https://github.com/openziti/ziti-android-app).
+This is a simple app that demonstrates the use of [the Ziti SDK for Android](https://github.com/hanzozt/ziti-sdk-android) (Kotlin). You will need the files in [this Git repository](https://github.com/hanzozt/ziti-android-app).
 
 ## Prerequisites
 
@@ -9,7 +9,7 @@ This is a simple app that demonstrates the use of [the Ziti SDK for Android](htt
 
 ## Running the app
 
-* Run one of [the quickstarts](https://docs.openziti.io/docs/learn/quickstarts/network/) to create a Ziti network.
+* Run one of [the quickstarts](https://docs.hanzozt.dev/docs/learn/quickstarts/network/) to create a Ziti network.
 * Create a service that is used by this app:
 
     ```

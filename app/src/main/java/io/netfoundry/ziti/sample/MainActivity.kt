@@ -9,7 +9,7 @@ import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.content_main.*
 import okhttp3.*
-import org.openziti.android.Ziti
+import org.hanzozt.android.Ziti
 import java.io.IOException
 import java.net.InetAddress
 import java.security.KeyStore

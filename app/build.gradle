@@ -39,7 +39,7 @@ dependencies {
 
     implementation 'com.squareup.okhttp3:okhttp:4.9.0'
 
-    implementation "org.openziti:ziti-android:0.22.2"
+    implementation "org.hanzozt:ziti-android:0.22.2"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1"
 
 
