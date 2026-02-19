@@ -1,6 +1,6 @@
 # Ziti Android Quickstart
 
-This is a simple app that demonstrates the use of [the Ziti SDK for Android](https://github.com/hanzozt/ziti-sdk-android) (Kotlin). You will need the files in [this Git repository](https://github.com/hanzozt/ziti-android-app).
+This is a simple app that demonstrates the use of [the Ziti SDK for Android](https://github.com/hanzozt/zt-sdk-android) (Kotlin). You will need the files in [this Git repository](https://github.com/hanzozt/zt-android-app).
 
 ## Prerequisites
 
@@ -13,8 +13,8 @@ This is a simple app that demonstrates the use of [the Ziti SDK for Android](htt
 * Create a service that is used by this app:
 
     ```
-    name = ziti-weather-service
-    hostname = wttr.ziti
+    name = zt-weather-service
+    hostname = wttr.zt
     port = 80
     
     endpoint host = wttr.in

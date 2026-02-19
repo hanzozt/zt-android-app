@@ -1,4 +1,4 @@
-package io.netfoundry.ziti.sample
+package io.netfoundry.zt.sample
 
 import android.os.Bundle
 import android.os.Handler
@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity() {
 
     fun loadData() {
         val request = Request.Builder()
-            .url("http://wttr.ziti/Rochester?format=3")
+            .url("http://wttr.zt/Rochester?format=3")
             .header("host", "wttr.in")
             .build()
 

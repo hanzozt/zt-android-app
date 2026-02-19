@@ -1,4 +1,4 @@
-package io.netfoundry.ziti.sample
+package io.netfoundry.zt.sample
 
 import org.junit.Test
 

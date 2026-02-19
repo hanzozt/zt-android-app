@@ -15,7 +15,7 @@ android {
     }
     compileSdkVersion 30
     defaultConfig {
-        applicationId "io.netfoundry.ziti.sample"
+        applicationId "io.netfoundry.zt.sample"
         minSdkVersion 27
         targetSdkVersion 30
         versionCode 1
@@ -39,7 +39,7 @@ dependencies {
 
     implementation 'com.squareup.okhttp3:okhttp:4.9.0'
 
-    implementation "org.hanzozt:ziti-android:0.22.2"
+    implementation "org.hanzozt:zt-android:0.22.2"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1"
 
 
